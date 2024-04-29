@@ -1,12 +1,11 @@
-import './App.css';
 import React from 'react'
-import Todos from './Projects/Todos/Todos';
+import Calculator from './Projects/Calculator/Calculator'
 
 
 function App() {
   return (
     <>
-     <Todos />
+     <Calculator />
     </>
   );
 }

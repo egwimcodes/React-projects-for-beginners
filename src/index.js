@@ -6,8 +6,6 @@ import './index.css'
 const el = document.getElementById('root')
 if (el) {
   const root = ReactDOM.createRoot(el).render(
-    <React.StrictMode>
       <App />
-    </React.StrictMode>
   );
 }
