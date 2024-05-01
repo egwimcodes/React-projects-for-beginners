@@ -1,11 +1,11 @@
 import React from 'react'
-import Calculator from './Projects/Calculator/Calculator'
+import ThemeToggle from './Projects/ThemeToggle/ThemeToggle.js'
 
 
 function App() {
   return (
     <>
-     <Calculator />
+     <ThemeToggle />
     </>
   );
 }
